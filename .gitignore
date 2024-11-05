@@ -1,0 +1,13 @@
+*.tar.gz
+*.pth
+*.ckpt
+/output
+/data
+/__pycache__
+*.log
+*.wandb
+*.json
+*.yaml
+/wandb
+*.csv
+super_resolution/
